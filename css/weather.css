@@ -1,0 +1,25 @@
+body {
+	color: white;
+	background-color: steelblue;
+}
+
+p {
+	font-size: 40px;
+}
+h1 {
+	text-align: center;
+	font-size: 60px;
+}
+
+footer {
+	text-align: center;
+}
+
+#container {
+	text-align: center;
+}
+
+img#icon {
+	height: 100px;
+	width: 100px;
+}
